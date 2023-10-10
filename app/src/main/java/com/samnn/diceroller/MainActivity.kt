@@ -1,7 +1,6 @@
 package com.samnn.diceroller
 
 import android.annotation.SuppressLint
-import android.media.AudioAttributes
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
