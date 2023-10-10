@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Roll">Roll</string>
+    <string name="just_a_normal_dice">Just a normal dice</string>
 </resources>
